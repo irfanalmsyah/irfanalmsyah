@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanalmsyah&label=Profile%20views&color=0e75b6&style=flat" alt="irfanalmsyah" /> </p>
 
-- 👨‍💻 All of my projects are available at [irfanalmsyah.github.io](irfanalmsyah.github.io)
+- 👨‍💻 All of my projects are available at [https://irfanalmsyah.github.io/](irfanalmsyah.github.io)
 
 - 📫 How to reach me **irfanalamsyah2@gmail.com**
 

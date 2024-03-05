@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan Alamsyah</h1>
-<h3 align="center">I'm a computer science sophomore in IPB University. I have interest in cyber security, automation, and web development.</h3>
+<h3 align="center">I'm a third-year computer science student in IPB University. I have interest in cyber security, automation, and web development.</h3>
 
 
 - 👨‍💻 All of my projects are available at [irfanalmsyah.github.io/](https://irfanalmsyah.github.io/)

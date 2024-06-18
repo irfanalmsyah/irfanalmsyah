@@ -2,7 +2,7 @@
 <h3 align="center">I'm a third-year computer science student in IPB University. I have interest in cyber security, automation, and web development.</h3>
 
 
-- 👨‍💻 All of my projects are available at [irfanalmsyah.github.io/](https://irfanalmsyah.github.io/)
+- 👨‍💻 All of my projects are available at [irfanalamsyah.com](https://irfanalamsyah.com/)
 
 - 📫 Reach me **irfanalamsyah2@gmail.com**
 
